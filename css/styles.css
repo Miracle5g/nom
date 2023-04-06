@@ -1,0 +1,182 @@
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+h1 {
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+
+h2 {
+    font-size: 2rem;
+    line-height: 1.5;
+    font-family: 'Montserrat-Black', sans-serif;
+    font-weight: bold;
+}
+
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-column {
+    padding: 3% 2%;
+}
+h3 {
+    font-family: 'Montserrat-bold', sans-serif;
+    font-weight: bold;
+}
+#cta {
+    text-align: center;
+}
+
+#footer {
+    text-align: center;
+    background-color: #ef8172;
+    padding-bottom: 20px;
+}
+
+p {
+    color: #8f8f8f;
+}
+.container-fluid {
+    padding: 3% 15%;
+}
+
+body {
+    font-family: 'Montserrat-Black', sans-serif;
+}
+
+/* Navigation Bar */
+
+.navbar {
+    padding: 0 0 4.5rem;
+
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    font-family: JetBrains Mono;
+    border: 0px;
+    background: inherit;
+    opacity: 0.8;
+    color: #fff!important;
+
+}
+
+.navbar-brand {
+    font-family: JetBrains Mono;
+    font-weight: bold;
+    cursor: pointer;
+    height: 40px;
+    width: 126px;
+    font-size: 1.2rem;
+}
+
+/* buttons */
+.download-botton {
+    margin: 5% 3% 5% 0;
+}
+
+.meet {
+    margin-top: 20%;
+}
+
+#navbarTogglerDemo01 {
+    padding-top: 0px;
+    border-top-width: 0px;
+    margin-top: 0px;
+    width: 613px;
+    height: 40px;
+}
+/* features */
+#features {
+    padding: 7% 15%;
+}
+
+
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+.icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.press-logo1 {
+    width: 33px;
+    margin: 2%;
+}
+.icon:hover {
+    color: #ff4c68;
+}
+
+/* testimonials */
+#testimonials {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ff4c68;
+    font-family: 'Montserrat-Black', sans-serif;
+    font-weight: bold;
+}
+
+
+.testimonial-image {
+    height: 100px;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+
+.food {
+    height: 100px;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press {
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+@media (max-width: 1028px) {
+    #title {
+        text-align: center;
+    }
+
+}
+
+ a:hover {
+        color: #EAF6F6;
+    }
